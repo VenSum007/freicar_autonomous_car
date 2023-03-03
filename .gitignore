@@ -1,0 +1,23 @@
+# cmake debug
+#freicar-2020-exercises/02-01-localization-exercise/freicar_localization/cmake-build-debug/*
+freicar-2020-exercises/02-01-localization-exercise/freicar_localization/cmake-build-debug/*
+**/cmake-build-debug/*
+
+
+# intellij files
+freicar-2020-exercises/02-01-localization-exercise/.idea/*
+freicar-2020-exercises/04-01-control-exercise/.idea/*
+#.idea/*
+**/.idea/*
+
+# Pycharm virtual environment
+**/venv/*
+
+# pyc
+*.pyc
+
+#*.cmake
+*.cmake
+*.make
+
+freicar-2020-exercises/04-01-control-exercise/freicar_control/cmake-build-debug/*
